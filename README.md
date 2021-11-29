@@ -13,18 +13,18 @@ You rise to your level of preparation. Failing to prepare is preparing to fail.
 You may not be good at something right now, but you can be better. Now is a great time to start.
 
 # Table of Contents
-1) We're all unique
-2) Goals, needs, wants, and dreams
-3) Write down and talk about your ideas
-4) Communicate effectively 
-5) Find and solve problems
-6) Prioritize things that matter
-7) Physical and mental health
-8) Learning and skill development
-9) Be a symbol for good
-10) Make your world a little better today than it was yesterday
-11) Find your niche and master it
-12) Purpose and meaning  
+[1) We're all unique](/TheGuide/WeAreAllUnique.md)  
+[2) Goals, needs, wants, and dreams](/TheGuide/GoalsNeedsWantsDreams.md)  
+[3) Write down and talk about your ideas](/TheGuide/WriteDownYourIdeas.md)  
+[4) Communicate effectively](/TheGuide/CommunicateEffectively.md)  
+[5) Find and solve problems](/TheGuide/FindAndSolveProblems.md)  
+[6) Prioritize things that matter](/TheGuide/PrioritizeThingsThatMatter.md)  
+[7) Physical and mental health](/TheGuide/PhysicalAndMentalHealth.md)  
+[8) Learning and skill development](/TheGuide/LearningSkillDevelopment.md)  
+[9) Be a symbol for good](/TheGuide/BeASymbolForGood.md)  
+[10) Make your world a little better today than it was yesterday](/TheGuide/MakeYourWorldBetterToday.md)  
+[11) Find your niche and master it](/TheGuide/FindYourNiche.md)  
+[12) Purpose and meaning](/TheGuide/PurposeAndMeaning.md)  
 
 # Princple 1 - We're All Unique (Excerpt)
 A. We all have unique lives, circumstances, perspectives, preferences, tragedies, and triumphs, therefore, this guide is unique to me. What works for me may not work for you, so if you finish this guide to taking on life's challenges, delete it and create your own guide. One size rarely fits all, so you are responsible for deciding what goes in your guide. Some of us are granted great abilities. Some of us are cursed with terrible disabilities. Regardless, we all must take responsibility for our lives and figure out what works for us. Consider sharing your guide. We could collaborate and try to help people achieve their dreams and alleviate their suffering.
