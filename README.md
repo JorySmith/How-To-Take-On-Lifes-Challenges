@@ -13,8 +13,8 @@ You rise to your level of preparation. Failing to prepare is preparing to fail.
 You may not be good at something right now, but you can get better. Now is a great time to start.
 
 # Table of Contents
-[1) We're all unique](/TheGuide/WeAreAllUnique.md)  
-[2) Goals, needs, wants, and dreams](/TheGuide/GoalsNeedsWantsDreams.md)  
+[1) We're All Unique](/TheGuide/WeAreAllUnique.md)  
+[2) Goals, Needs, Wants, and Dreams](/TheGuide/GoalsNeedsWantsDreams.md)  
 [3) Write down and talk about your ideas](/TheGuide/WriteDownYourIdeas.md)  
 [4) Communicate effectively](/TheGuide/CommunicateEffectively.md)  
 [5) Find and solve problems](/TheGuide/FindAndSolveProblems.md)  
