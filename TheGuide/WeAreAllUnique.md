@@ -1,7 +1,8 @@
 # 1) We're All Unique
 
 ### A. We all have unique lives, circumstances, perspectives, preferences, tragedies, and triumphs, therefore, this guide is unique to me. 
-What works for me may not work for you, so if you finish this guide to taking on life's challenges, delete it and create your own guide. One size rarely fits all, so you are responsible for deciding what goes in your guide. 
+What works for me may not work for you, so if you finish this guide to taking on life's challenges, delete it and create your own guide. One size rarely fits all, so you are responsible for deciding what goes in your guide.  
+
 Some of us are granted great abilities. Some of us are cursed with terrible disabilities. Regardless, we all must take responsibility for our lives and figure out what works for us. Consider sharing your guide. We could collaborate and try to help people achieve their dreams and alleviate their suffering.
 
 ### B. We also overlap a lot and have plenty of common ground, pains, tragedies, beliefs, values, and dreams.
