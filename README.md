@@ -26,7 +26,7 @@ You may not be good at something right now, but you can get better. Now is a gre
 [11) Find Your Niche and Master It](/TheGuide/FindYourNiche.md)  
 [12) Purpose and Meaning](/TheGuide/PurposeAndMeaning.md)  
 
-## Principle 1 - We're All Unique (Excerpt)
+## 1) We're All Unique (Excerpt)
 
 ### A. We all have unique lives, circumstances, perspectives, preferences, tragedies, and triumphs, therefore, this guide is unique to me. 
 What works for me may not work for you, so if you finish this guide to taking on life's challenges, delete it and create your own guide. One size rarely fits all, so you are responsible for deciding what goes in your guide.  
