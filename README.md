@@ -10,7 +10,7 @@ We experience many challenges and tragedies in life. Some we've already endured 
 
 You rise to your level of preparation. Failing to prepare is preparing to fail. 
 
-You may not be good at something right now, but you can be better. Now is a great time to start.
+You may not be good at something right now, but you can get better. Now is a great time to start.
 
 # Table of Contents
 [1) We're all unique](/TheGuide/WeAreAllUnique.md)  
