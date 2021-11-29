@@ -1,4 +1,4 @@
-# We're All Unique
+# 1) We're All Unique
 
 ## A. We all have unique lives, circumstances, perspectives, preferences, tragedies, and triumphs, therefore, this guide is unique to me. 
 What works for me may not work for you, so if you finish this guide to taking on life's challenges, delete it and create your own guide. One size rarely fits all, so you are responsible for deciding what goes in your guide. 
