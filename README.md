@@ -34,3 +34,6 @@ What works for me may not work for you, so if you finish this guide to taking on
 Some of us are granted great abilities. Some of us are cursed with terrible disabilities. Regardless, we all must take responsibility for our lives and figure out what works for us. Consider sharing your guide. We could collaborate and try to help people achieve their dreams and alleviate their suffering.  
 
 [Continue reading...](/TheGuide/WeAreAllUnique.md)  
+
+## Sources and Mentors
+Daniel Kahneman, Stuart Diamond, Simon Sinek, Chris Voss, Jordan Peterson, The Body Language Panel, and Mark Manson
