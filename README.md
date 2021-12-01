@@ -36,4 +36,4 @@ Some of us are granted great abilities. Some of us are cursed with terrible disa
 [Continue reading...](/TheGuide/WeAreAllUnique.md)  
 
 ## Sources and Mentors
-Daniel Kahneman, Stuart Diamond, Simon Sinek, Chris Voss, Jordan Peterson, The Body Language Panel, and Mark Manson
+Daniel Kahneman, Stuart Diamond, Simon Sinek, Chris Voss, Jordan Peterson, The Body Language Panel, and Mark Manson.
