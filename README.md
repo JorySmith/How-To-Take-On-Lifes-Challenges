@@ -14,7 +14,7 @@ You may not be good at something right now, but you can get better. Now is a gre
 
 ## Table of Contents
 [1) We're All Unique](/TheGuide/WeAreAllUnique.md)  
-[2) Goals, Needs, Wants, and Dreams](/TheGuide/GoalsNeedsWantsDreams.md)  
+[2) Goals, Needs, Values, and Dreams](/TheGuide/GoalsNeedsValuesDreams.md)  
 [3) Write Down and Talk About Your Ideas](/TheGuide/WriteDownYourIdeas.md)  
 [4) Prioritize Things That Matter](/TheGuide/PrioritizeThingsThatMatter.md)  
 [5) Communicate Effectively](/TheGuide/CommunicateEffectively.md)  
