@@ -1,4 +1,4 @@
-# 2) Goals, Needs, Wants, and Dreams
+# 2) Goals, Needs, Values, and Dreams
 
 ### A. What you perceive in the world is directly related to your goals.
 What you want illuminates the path toward where you want to go from where you are right now. Goals also illuminate obstacles in the way and things to avoid. 
