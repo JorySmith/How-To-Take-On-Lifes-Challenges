@@ -2,7 +2,7 @@
 "Life's tragedy is that we get old too soon and wise too late."  
 -Benjamin Franklin, one of the Founding Fathers of the United States.
 
-This is a guide for rising to life's challenges, achieving dreams, and alleviating pain and suffering.
+This is a living guide (in constant draft) for rising to life's challenges, achieving dreams, and alleviating pain and suffering.
 
 Life is filled with suffering and joy but it can always be made worse by your own stupidity or someone else's malevolence.
 
