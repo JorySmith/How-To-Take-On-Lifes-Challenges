@@ -4,13 +4,13 @@
 
 This is a living compendium (in constant draft) for rising to life's challenges, achieving dreams, and alleviating pain and suffering.
 
-Life is filled with suffering and joy but it can always be made worse by your own stupidity or someone else's malevolence.
-
-We experience many challenges and tragedies in life. Some we've already endured and some we are about to endure. What we can do is prepare and improve ourselves for the hidden ones waiting for us around the corner. 
+Life is filled with suffering and joy but it can always be made worse by your own stupidity or someone else's malevolence. Some suffering we've already endured and some we are about to endure. What we can do is prepare and improve ourselves for the hidden ones waiting for us around the corner. 
 
 You rise to your level of preparation. Failing to prepare is preparing to fail. 
 
-You may not be good at something right now, but you can get better. Now is a great time to start.
+You may not be good at something right now, but you can get better. Now is a great time to start.  
+
+I apologize for any punctuation and grammatical errors as I develop this repository.  
 
 # Table of Contents
 [1) We're All Unique](/TheGuide/WeAreAllUnique.md)  
