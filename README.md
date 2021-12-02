@@ -6,7 +6,10 @@ This is a living compendium (in constant draft) for rising to life's challenges,
 
 Life is filled with joy and suffering but it can always be made worse by our own stupidity or someone else's malevolence. Some suffering we've already endured and some we are about to endure. What we can do is prepare and improve ourselves now for the approaching challenges just around the corner. 
 
-You rise to your level of preparation. Failing to prepare is preparing to fail. You may not be good at something right now, but you can get better. Now is a great time to start.  
+We rise to our level of preparation. Failing to prepare is preparing to fail. We may not be good at something right now, but we can always get better.  
+
+Now is a great time to start.  
+
 I apologize for any punctuation and grammatical errors as I develop this repository.  
 
 # Table of Contents
