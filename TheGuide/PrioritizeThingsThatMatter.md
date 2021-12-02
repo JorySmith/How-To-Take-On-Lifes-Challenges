@@ -1,4 +1,4 @@
-4) Prioritize things that matter
+4) Prioritize things that matter  
 a. Some things are much more important than other things, 80/20 Principle/Power Law, find them, remember them to dramatically improve performance, sometimes we lose perspective and focus on problems that don't matter compared to other problems  
 b. Some little things add up quickly and become very important things, "it is the small everyday deeds of ordinary folks that keep the darkness at bay. Small acts of kindness and love." -Gandalf  
 e. Data is toxic to memory, too many choices is toxic to decision making, get lots of and a variety of info but filter it down to the most important and impactful pieces to improve memory retention   
