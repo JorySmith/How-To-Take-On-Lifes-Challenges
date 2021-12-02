@@ -1,6 +1,6 @@
 12) Purpose and meaning   
 a. Life is suffering so you need meaning in your life, otherwise, your life is meaningless suffering, meaning comes from having a vision of where you want to go and a feeling of small daily progress towards that motivating vision, start with getting to know yourself, what you want, what you don't want, then even deeper and more rewarding meaning comes from helping others after you choose and implement your vision   
-a. You find meaning, enjoyment, and happiness, through taking control of the sacrifices, suffering, and responsibility you take on, raising kids is a lot of sacrifice and suffering but it produces the deepest meaning in your life, the quality of your suffering determines the quality of your meaning and enjoyment in your life   
+a. You find meaning, enjoyment, and happiness, through taking control of the sacrifices, suffering, and responsibility you take on, raising kids is a lot of sacrifice and suffering but it can produce some of the deepest meaning in your life, the quality of your suffering determines the quality of your meaning and enjoyment in your life   
 c. There is suffering that people go through in life that is much worse than death  
 d. Pressure is a privilege, be grateful, rise to the occasion, the rewards are infinite and unimaginable   
 e.   
