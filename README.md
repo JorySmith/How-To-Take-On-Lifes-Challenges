@@ -17,7 +17,7 @@ I apologize for any punctuation and grammatical errors as I develop this reposit
 [2) Goals, Needs, Values, and Dreams](/TheGuide/GoalsNeedsValuesDreams.md)  
 [3) Write Down and Talk About Your Ideas](/TheGuide/WriteDownYourIdeas.md)  
 [4) Prioritize Things That Matter](/TheGuide/PrioritizeThingsThatMatter.md)  
-[5) Negotiate Like Your Life Depends On It](/TheGuide/XXXXXXXXX.md)  
+[5) Negotiate Like Your Life Depends On It](/TheGuide/NegotiateEffectively.md)  
 [6) Communicate Effectively](/TheGuide/CommunicateEffectively.md)  
 [7) Find and Solve Problems](/TheGuide/FindAndSolveProblems.md)  
 [8) Physical and Mental Health](/TheGuide/PhysicalAndMentalHealth.md)  
