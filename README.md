@@ -36,4 +36,4 @@ Some of us are granted great abilities. Some of us are cursed with terrible disa
 [Continue reading...](/TheGuide/WeAreAllUnique.md)  
 
 ## Sources and Mentors
-[Daniel Kahneman](https://youtu.be/CjVQJdIrDJ0), [Stuart Diamond](https://youtu.be/2QtZ-vObJrk), [Simon Sinek](https://youtu.be/ReRcHdeUG9Y), [Chris Voss](https://youtu.be/guZa7mQV1l0), [Jordan Peterson](https://www.youtube.com/c/JordanPetersonVideos), [The Body Language Panel](https://youtu.be/5xamOpiZMFg), and [Mark Manson](https://markmanson.net/).
+[Daniel Kahneman](https://youtu.be/CjVQJdIrDJ0), [Stuart Diamond](https://youtu.be/2QtZ-vObJrk), [Simon Sinek](https://youtu.be/ReRcHdeUG9Y), [Chris Voss](https://youtu.be/guZa7mQV1l0), [Jordan Peterson](https://youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi), [The Body Language Panel](https://youtu.be/5xamOpiZMFg), and [Mark Manson](https://markmanson.net/).
