@@ -6,7 +6,7 @@ This is a living guide (in constant draft) for rising to life's challenges, achi
 
 Life is filled with joy and suffering but it can always be made worse by our own stupidity or someone else's malevolence. Even people that seem to be the happiest online or in person suffer. In fact, you likely won't have to dig very deep at all before you find something truly tragic in their lives. Some suffering we've already endured and some we are about to endure. What we can do is prepare and improve ourselves now for the approaching challenges just around the corner. 
 
-We rise to our level of preparation. Failing to prepare is preparing to fail. We may not be good at something right now, but we can always get better.  
+We rise to our level of preparation. Failing to prepare is preparing to fail. We may not be good at something right now, but we can always get a little better each day and a little closer to who we want to be.  
 
 Now is a great time to start.  
 
